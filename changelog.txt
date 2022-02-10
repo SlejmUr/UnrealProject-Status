@@ -1,0 +1,19 @@
+Day 0 to Finalised(Or kinda)
+
+Day 0 (February 8, 2022)
+Downloaded UE4.27
+Made a MainMenu UI + lvl
+Added Destructable cube
+Made it to Package
+
+Day 1 (February 9, 2022)
+Sounds while shooting is lowered
+Changed ammo ball to shape
+FPS Count added
+Added some text to change settings
+Added "NewLevel" level
+
+Day 2 (February 10, 2022)
+Reverted ammo shape to ball
+Edited "NewLevel", added a destr. cube and walls
+Added Change mode on settings (Not all stuff works)
