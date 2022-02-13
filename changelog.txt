@@ -17,3 +17,11 @@ Day 2 (February 10, 2022)
 Reverted ammo shape to ball
 Edited "NewLevel", added a destr. cube and walls
 Added Change mode on settings (Not all stuff works)
+
+Day 3 (February 12, 2022) [Unpacked/Unpublished]
+Switched Unreal Engine 4.27 to Chaos edition.
+Tested destruction with chaos, gun shooting isn't working.
+Wall trying to be destructive.
+
+Day 4 - Target
+Making it to multiplayer or making movement better.
